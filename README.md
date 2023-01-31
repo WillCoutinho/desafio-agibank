@@ -28,6 +28,8 @@ Ou utilize o comando `npx playwright test --project=nome_browser` para rodar os 
 Caso queira passar parâmetros no comando, basta utilizar `--` e depois o comando desejado (ver [Playwright Command-Line](https://playwright.dev/docs/running-tests#command-line)).  
 Exemplo: `npm run test-chrome -- --headed`
 
+E para olhar o relatório dos testes basta usar o comando `npm run report`
+
 ##
 
 #### Repositório
