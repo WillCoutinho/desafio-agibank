@@ -1,0 +1,18 @@
+{
+  "name": "desaftio-agibank",
+  "version": "1.0.0",
+  "description": "Desafio AgibBank",
+  "main": "index.js",
+  "scripts": {
+    "test-chrome": "playwright test --project=chrome",
+    "test-all-browsers": "playwright test",
+    "report": "npx playwright show-report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.30.0",
+    "prettier": "^2.8.3"
+  }
+}
