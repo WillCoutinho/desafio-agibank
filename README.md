@@ -25,6 +25,9 @@ git clone https://github.com/LittleCout0/desafio-agibank.git && cd desafio-agiba
 Para rodar todos os cenários nos browsers disponíveis, use o comando: `npm run test-all-browsers`  
 Ou utilize o comando `npx playwright test --project=nome_browser` para rodar os testes em um browser específico ("chrome", "edge" ou "webkit")
 
+Caso queira passar parâmetros no comando, basta utilizar `--` e depois o comando desejado (ver [Playwright Command-Line](https://playwright.dev/docs/running-tests#command-line)).  
+Exemplo: `npm run test-chrome -- --headed`
+
 ##
 
 #### Repositório
