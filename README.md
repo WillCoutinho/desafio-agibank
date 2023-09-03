@@ -19,7 +19,7 @@ Instalar última versão do [**GIT**](https://git-scm.com/download/win) para clo
 Em seu terminal (em modo Admin), rode o comando abaixo para clonar e instalar todas as dependências
 
 ```bash
-git clone https://github.com/LittleCout0/desafio-agibank.git && cd desafio-agibank && npm i
+git clone https://github.com/WillCoutinho/desafio-agibank.git && cd desafio-agibank && npm i
 ```
 
 Para rodar todos os cenários nos browsers disponíveis, use o comando: `npm run test-all-browsers`  
@@ -34,7 +34,7 @@ E para olhar o relatório dos testes basta usar o comando `npm run report`
 
 #### Repositório
 
-GitHub: [_Desafio AgiBank_](https://github.com/LittleCout0/desafio-agibank)
+GitHub: [_Desafio AgiBank_](https://github.com/WillCoutinho/desafio-agibank)
 
 ##
 
